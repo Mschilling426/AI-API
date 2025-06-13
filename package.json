@@ -1,0 +1,28 @@
+{
+  "name": "basic13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Basic13.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mschilling426/Basic13.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mschilling426/Basic13/issues"
+  },
+  "homepage": "https://github.com/Mschilling426/Basic13#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10",
+    "openai": "^5.1.1"
+  }
+}
